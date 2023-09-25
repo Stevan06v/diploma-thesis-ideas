@@ -1,0 +1,64 @@
+= Diplomarbeits Ideen
+Stevan Vlajic
+1.0.0, {docdate}: Softwareentwicklung
+//:toc-placement!:  // prevents the generation of the doc at this position, so it can be printed afterwards
+:sourcedir: ../src/main/java
+:icons: font
+:sectnums:    // Nummerierung der Überschriften / section numbering
+:toc: left
+:experimental:
+
+
+//Need this blank line after ifdef, don't know why...
+
+// print the toc here (not at the default position)
+//toc::[]
+
+== Connect together
+* Eine App Mobile-App aufgebaut wie Tinder, um sich mit Menschen in einer einstellbaren Distanz zu verbinden und diese kennen zu lernen.
+* Funktionalitäten:
+** Chat-System
+** Tinder Match-funktionalität
+** General Settings
+** Genaue locations schicken
+** Announcements -> treffen vereinbaren
+** Öffentliche Events finden
+** ETC...
+** Lokale in der Nähe
+
+* Technologien:
+*** Quarkus / Anderes Backend / Next JS / Svelete KIT
+*** Front-End Framework
+*** APP
+*** Beispielsweise Twilio API's
+
+== Lost & Found
+
+* Eine Web-App gemacht zum finden Verlorener Gegenstände.
+* Funktionalität:
+** Posts werden erstellt mit der Beschreibung der Sachen und vlt Foto (wenn vorhanden) mit locations, in welchen man sich befunden hat als man den Gegenstand noch hatte
+** Chat-Funktionalitaet
+** Reagieren auf Posts mit auto-locations
+** Up Vote System
+** Filterung nach datum
+** Push notifications  -> wenn in der Nähe von den eingegebenen locations
+** AI tool, welches versucht die location anhand von den durch ein chat-system mitgegebenen Informationen, die Personen auf die richtige Fährte zu führen
+
+
+== Event Organisierung
+
+* Eine webapp in welcher sich Events erstellen lassen, welche durch tags verschiedenen Usern angezeigt werden
+* Funktionalität:
+** Events können erstellt werden, diese werden dann von den Usern abgerufen.
+** Man kann sich zu Events eintrage
+** Organisatoren können einsehen wer an welchen Events teilnimmt
+** Smarter Platzvorschlag
+** Angebote können von Firmen erstellt werden, für Plätze mit Preisen
+** Events könne direkt gebucht werden
+** Eingegebene Events werden überprüft -> Rollen werden festgelegt -> Appointments für Rollen
+** Buchungssystem fürs zur Verfügung von Eventplätzen durch Firmen
+** Automatic Mail-Formatierug für richtige Businessmail -> KI
+
+
+== Rabbidly
+* Is klar
