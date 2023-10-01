@@ -62,3 +62,32 @@ Stevan Vlajic
 
 == Rabbidly
 * Is klar
+
+== UMT (Integration of Untis, Moodle, and Teams)
+
+=== Why?
+
+There are too many tools we get information from.
+The idea is to fusion their strengths all to one product 
+to decrease complexity and increase working speed.
+
+=== Brainstorming
+
+The Untis interface lacks aesthetic appeal and fails to deliver optimal user experience. 
+Moreover, Untis lacks a seamless method for exporting tests/exams for easy integration into other calendars or as tasks (CSV) in platforms like Notion.
+
+Moodle is primarily employed in our school to organize homework and lecture materials into distinct sections. 
+However, Moodle's user interface is perplexing and overly complicated. 
+The sole necessity is different subject-specific rooms, yet Moodle offers more than required, which increases complexity. 
+Teachers only need to oversee the rooms and verify student attendance.
+
+*Issues with Moodle include:*  
+* Displaying only the upload date of material to the course, not when it was published to group members, which doesn't make any sense at all.
+  * Lack of awareness regarding new publications until communicated by the course administrator.
+* Not automatically featuring every task on the homepage, leading to the inconvenience of manually checking for missing todos.
+
+Teams, on the other hand, is satisfactory. It enables chat within teams, task management, one-on-one communication, and provides a calendar and file upload capabilities. 
+Essentially, Teams encompasses the functionalities of both Untis and Moodle.
+Teams even obviates the need for an external FTP server (ANOTHER SOURCE OF DOCUMENTS. ARE YOU ACTUALLY INSANE?), allowing the upload of files up to 250GB and a total storage capacity of 25TB [teams-limitations](https://learn.microsoft.com/en-us/microsoftteams/limits-specifications-teams).
+
+=> nahh (just don't use untis and moodle (and discord and ...), use teams instead)
