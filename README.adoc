@@ -7,7 +7,7 @@ Stevan Vlajic
 :sectnums:    // Nummerierung der Überschriften / section numbering
 :toc: left
 :experimental:
-
+:hide-uri-scheme:
 
 //Need this blank line after ifdef, don't know why...
 
@@ -89,6 +89,6 @@ Teachers only need to oversee the rooms and verify student attendance.
 
 Teams, on the other hand, is satisfactory. It enables chat within teams, task management, one-on-one communication, and provides a calendar and file upload capabilities. 
 Essentially, Teams encompasses the functionalities of both Untis and Moodle.
-Teams even obviates the need for an external FTP server (ANOTHER SOURCE OF DOCUMENTS. ARE YOU ACTUALLY INSANE?), allowing the upload of files up to 250GB and a total storage capacity of 25TB [teams-limitations](https://learn.microsoft.com/en-us/microsoftteams/limits-specifications-teams).
+Teams even obviates the need for an external FTP server (ANOTHER SOURCE OF DOCUMENTS. ARE YOU ACTUALLY INSANE?), allowing the upload of files up to 250GB and a total storage capacity of 25TB (https://learn.microsoft.com/en-us/microsoftteams/limits-specifications-teams[*teams-limitations*]).
 
 => nahh (just don't use untis and moodle (and discord and ...), use teams instead)
