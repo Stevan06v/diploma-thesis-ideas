@@ -81,7 +81,8 @@ However, Moodle's user interface is perplexing and overly complicated.
 The sole necessity is different subject-specific rooms, yet Moodle offers more than required, which increases complexity. 
 Teachers only need to oversee the rooms and verify student attendance.
 
-*Issues with Moodle include:*  
+*Issues with Moodle include:*
+
 * Displaying only the upload date of material to the course, not when it was published to group members, which doesn't make any sense at all.
   * Lack of awareness regarding new publications until communicated by the course administrator.
 * Not automatically featuring every task on the homepage, leading to the inconvenience of manually checking for missing todos.
