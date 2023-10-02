@@ -92,3 +92,9 @@ Essentially, Teams encompasses the functionalities of both Untis and Moodle.
 Teams even obviates the need for an external FTP server (ANOTHER SOURCE OF DOCUMENTS. ARE YOU ACTUALLY INSANE?), allowing the upload of files up to 250GB and a total storage capacity of 25TB (https://learn.microsoft.com/en-us/microsoftteams/limits-specifications-teams[*teams-limitations*]).
 
 => nahh (just don't use untis and moodle (and discord and ...), use teams instead)
+
+## Mditor
+- Markdown editor
+
+## SpaceRunner
+* Is klar
