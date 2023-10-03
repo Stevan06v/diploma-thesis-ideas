@@ -98,3 +98,8 @@ Teams even obviates the need for an external FTP server (ANOTHER SOURCE OF DOCUM
 
 ## SpaceRunner
 * Is klar
+
+## Quixyl
+
+Eine Website auf der man Quizzes erstellen kann, +
+die größtenteils (bei uneindeutigen Antworten) von einer KI korrigiert werden.
